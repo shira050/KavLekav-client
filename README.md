@@ -1,6 +1,9 @@
 
 # React JS and .NET Core Image to Line-by-Line Game Algorithm
 
+**link to github-
+https://github.com/shira050/KavLekav-server.git**
+
 ## Project Overview
 
 This project involves creating an interactive web application using React JS and .NET Core. The application transforms a single-object image into a line-by-line game. Users can define the type of jumps between points, enabling experiential learning through the site. Users can explore sequences such as A-B, computer science series, and engineering sequences, all according to their preferences.
@@ -14,6 +17,7 @@ This project involves creating an interactive web application using React JS and
 - **Educational Content**: Facilitate learning through interactive sequences.
 - **Algorithm Visualization**: Illustrate algorithms used for point detection and boundary recognition.
 - **User Management**: Admin users can manage the system, and every user can see the pictures they have created.
+
 **link to github-
 https://github.com/shira050/KavLekav-server.git**
 ## Client-Side (React JS)
