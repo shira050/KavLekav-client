@@ -44,6 +44,7 @@ Regular users can upload images, apply algorithms, and view the images they have
 #### My Creations
 - Users can view a list of all images they have uploaded and processed.
 - Each image can be clicked to view detailed information and interact with it.
+![image](https://github.com/shira050/KavLekav-client/assets/98688678/cf0af61d-10d4-4f68-90b2-921c76bc8059)
 
 ## Setting Up the Project
 
