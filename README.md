@@ -14,39 +14,8 @@ This project involves creating an interactive web application using React JS and
 - **Educational Content**: Facilitate learning through interactive sequences.
 - **Algorithm Visualization**: Illustrate algorithms used for point detection and boundary recognition.
 - **User Management**: Admin users can manage the system, and every user can see the pictures they have created.
-
-## Algorithms
-
-### 1. Moravec's Algorithm for Interest Point Detection
-
-Moravec's algorithm identifies points of interest in an image, which are not necessarily within the frame.
-
-#### Steps:
-1. **Identify Points**: Detect points that are significant based on their surroundings.
-2. **Algorithm Process**: For each pixel, iterate over its neighbors and calculate the variance for each.
-3. **Variance Map**: Generate a map based on the calculated variances.
-
-### 2. Boundary and Perimeter Point Detection
-
-This algorithm detects boundary points and the perimeter of the object in the image.
-
-#### Steps:
-1. **First Black Pixel**: Find the first black pixel.
-2. **Neighbor Search**: For each neighbor, search for a black neighbor and recursively continue the search for \( n-1 \) from the previously found neighbor.
-
-### Example
-
-Include illustrative images and examples demonstrating the algorithm:
-
-1. **Original Image**:
-   ![Original Image](path/to/original_image.png)
-
-2. **Interest Points Detected**:
-   ![Interest Points](path/to/interest_points.png)
-
-3. **Boundary Detection**:
-   ![Boundary Detection](path/to/boundary_detection.png)
-
+**link to github-
+https://github.com/shira050/KavLekav-server.git**
 ## Client-Side (React JS)
 
 ### User Management
